@@ -1,7 +1,3 @@
-
-import java.util.*;
-import java.util.LinkedList;
-
 public class BubbleSort {
 
        public static void sorting(int[] arr){
